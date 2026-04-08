@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "yisus11y7",
+      "display_name": "Jesus Israel Prado Jaimes",
+      "password_hash": "$2a$10$q7lVo5/9BQOL.aHE06xITeTgMAQF9GROviXYK3Bi2o4Xm.48xqa5G",
+      "gradient": "#f472b6,#fb923c",
+      "last_seen": "2026-04-08T03:42:17.424Z",
+      "created_at": "2026-04-08T03:41:55.537Z"
+    },
+    {
+      "id": 2,
+      "username": "yita16",
+      "display_name": "Estrella Yamiret Lagunas Martinez",
+      "password_hash": "$2a$10$/NadIYSDM2WxwdRdhSMnxOfkVGuH3..6lV1BO6nsoQTRm8att7r2S",
+      "gradient": "#a78bfa,#ec4899",
+      "last_seen": "2026-04-08T03:50:19.573Z",
+      "created_at": "2026-04-08T03:43:04.139Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "sender_id": 2,
+      "receiver_id": 1,
+      "text": "Hola",
+      "mood": "normal",
+      "created_at": "2026-04-08T03:43:30.591Z"
+    },
+    {
+      "id": 2,
+      "sender_id": 2,
+      "receiver_id": 1,
+      "text": "como estas?",
+      "mood": "normal",
+      "created_at": "2026-04-08T03:43:43.567Z"
+    },
+    {
+      "id": 3,
+      "sender_id": 2,
+      "receiver_id": 1,
+      "text": "hi",
+      "mood": "urgente",
+      "created_at": "2026-04-08T03:44:48.785Z"
+    },
+    {
+      "id": 4,
+      "sender_id": 2,
+      "receiver_id": 1,
+      "text": "hi",
+      "mood": "suave",
+      "created_at": "2026-04-08T03:44:57.510Z"
+    },
+    {
+      "id": 5,
+      "sender_id": 2,
+      "receiver_id": 1,
+      "text": "Te amo",
+      "mood": "profundo",
+      "created_at": "2026-04-08T03:45:16.234Z"
+    },
+    {
+      "id": 6,
+      "sender_id": 1,
+      "receiver_id": 2,
+      "text": "HOLA",
+      "mood": "profundo",
+      "created_at": "2026-04-08T03:47:44.180Z"
+    }
+  ],
+  "reactions": [
+    {
+      "id": 1,
+      "message_id": 1775619823564,
+      "user_id": 2,
+      "emoji": "❤️"
+    },
+    {
+      "id": 4,
+      "message_id": 1,
+      "user_id": 2,
+      "emoji": "❤️"
+    },
+    {
+      "id": 5,
+      "message_id": 5,
+      "user_id": 1,
+      "emoji": "❤️"
+    },
+    {
+      "id": 7,
+      "message_id": 6,
+      "user_id": 2,
+      "emoji": "❤️"
+    }
+  ],
+  "_id": {
+    "u": 3,
+    "m": 7,
+    "r": 8
+  }
+}
